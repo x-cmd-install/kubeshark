@@ -7,7 +7,7 @@ about:
   head: 051f880
   archived: false
   latestVersion: v53.4.0
-  collectedAt: 2026-09-04T19:54:06Z
+  collectedAt: 2026-09-04T20:46:04Z
 timeline:
   created: 2021-04-19
   lastCommit: 2026-08-13
@@ -83,5 +83,53 @@ total:
   openIssue: 140
   commit: 2243
 ---
+path: /home/runner/.x-repo/github.com/kubeshark/kubeshark
+collectedAt: 2026-09-04T20:46:07Z
+loc:
+  Go:
+    code: 7771
+    comments: 484
+    blanks: 1389
+    files: 62
+  Yaml:
+    code: 3863
+    comments: 28
+    blanks: 73
+    files: 38
+  Makefile:
+    code: 340
+    comments: 8
+    blanks: 54
+    files: 1
+  Json:
+    code: 178
+    comments: 0
+    blanks: 0
+    files: 1
+  Pan:
+    code: 112
+    comments: 0
+    blanks: 14
+    files: 1
+  Sh:
+    code: 96
+    comments: 7
+    blanks: 19
+    files: 3
+  Markdown:
+    code: 0
+    comments: 3090
+    blanks: 1136
+    files: 21
+  Text:
+    code: 0
+    comments: 44
+    blanks: 9
+    files: 1
+total:
+  code: 13302
+  comments: 3800
+  blanks: 2750
+  files: 128
 ---
 
