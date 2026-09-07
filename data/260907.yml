@@ -5,13 +5,13 @@ about:
   head: 051f880
   archived: false
   latestVersion: "v53.4.0"
-  collectedAt: 2026-09-07T05:15:23Z
+  collectedAt: 2026-09-07T19:10:07Z
 timeline:
   created: 2021-04-19
   lastCommit: 2026-08-13
   lastRelease: 2026-08-13
 popularity:
-  star: 12070
+  star: 12072
   watcher: 73
   fork: 547
   release: 467
@@ -82,7 +82,7 @@ total:
   commit: 2243
 ---
 path: /home/runner/.x-repo/github.com/kubeshark/kubeshark
-collectedAt: 2026-09-07T05:15:29Z
+collectedAt: 2026-09-07T19:10:12Z
 loc:
   Go:
     code: 7771
@@ -133,7 +133,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:15:30+00:00
+  collectedAt: 2026-09-07T19:10:13+00:00
   platform:
     darwin/arm64:
       name:  kubeshark-mcp_darwin_arm64.mcpb
