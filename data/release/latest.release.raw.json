@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:81572249996ea27c948128f9edd419267c7c35f64704d2edb804b1e0a9f8ddad",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-13T20:09:57Z",
       "updated_at": "2026-08-13T20:09:57Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_linux_amd64.mcpb.sha256"
