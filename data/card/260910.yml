@@ -7,7 +7,7 @@ about:
   latestVersion: "v53.4.0"
   latestRelease: "v53.4.0"
   latestPrerelease: "v52.3.72"
-  collectedAt: 2026-09-10T17:23:43Z
+  collectedAt: 2026-09-10T21:37:15Z
 timeline:
   created: 2021-04-19
   lastCommit: 2026-09-09
@@ -86,7 +86,7 @@ total:
   commit: 2245
 ---
 path: /home/runner/.x-repo/github.com/kubeshark/kubeshark
-collectedAt: 2026-09-10T17:23:52Z
+collectedAt: 2026-09-10T21:37:20Z
 loc:
   Go:
     code: 7784
