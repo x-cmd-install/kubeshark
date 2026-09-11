@@ -7,7 +7,7 @@ about:
   latestVersion: "v53.4.0"
   latestRelease: "v53.4.0"
   latestPrerelease: "v52.3.72"
-  collectedAt: 2026-09-11T05:22:45Z
+  collectedAt: 2026-09-11T19:36:26Z
 timeline:
   created: 2021-04-19
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-13
   lastPrerelease: 2024-07-25
 popularity:
-  star: 12075
+  star: 12079
   watcher: 73
   fork: 547
   release: 467
@@ -86,7 +86,7 @@ total:
   commit: 2245
 ---
 path: /home/runner/.x-repo/github.com/kubeshark/kubeshark
-collectedAt: 2026-09-11T05:22:52Z
+collectedAt: 2026-09-11T19:36:32Z
 loc:
   Go:
     code: 7784
