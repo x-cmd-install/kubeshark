@@ -38,22 +38,22 @@ Total: **12,971** lines of code across **112** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,080 · **Forks**: 547 · **Open issues**: 387 · **Contributors**: 46
+- **Stars**: 12,082 · **Forks**: 548 · **Open issues**: 388 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 467 · **Merged PRs**: 1345 · **Open PRs**: 8 · **Closed issues**: 247 · **Open issues**: 140 · **Commits**: 2245
+- **Releases**: 467 · **Merged PRs**: 1345 · **Open PRs**: 8 · **Closed issues**: 247 · **Open issues**: 141 · **Commits**: 2245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 2 | 5 | 1 | 0 | 2 |
-| last60d | 2026-07-15 | 1 | 7 | 6 | 2 | 1 | 9 |
-| 90d | 2026-06-15 | 1 | 9 | 7 | 3 | 2 | 11 |
-| last180d | 2026-03-17 | 6 | 41 | 8 | 13 | 12 | 45 |
-| 360d | 2025-09-18 | 13 | 102 | 8 | 20 | 18 | 110 |
-| last720d | 2024-09-23 | 36 | 199 | 8 | 52 | 26 | 284 |
+| 30d | 2026-08-15 | 0 | 2 | 5 | 1 | 1 | 2 |
+| last60d | 2026-07-16 | 1 | 7 | 6 | 2 | 2 | 7 |
+| 90d | 2026-06-16 | 1 | 8 | 7 | 3 | 2 | 11 |
+| last180d | 2026-03-18 | 6 | 40 | 8 | 12 | 13 | 38 |
+| 360d | 2025-09-19 | 13 | 102 | 8 | 20 | 19 | 110 |
+| last720d | 2024-09-24 | 36 | 198 | 8 | 52 | 27 | 281 |
 
 ## Release assets
 
@@ -82,15 +82,6 @@ Total: **12,971** lines of code across **112** files in the top 5 languages.
 | [README.md](https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/README.md) | 993 B | `other` |
 | [version.txt](https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/version.txt) | 8 B | `other` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/kubeshark). **3** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `53.4.0` | ✅ latest |
-| Nix unstable | `53.4.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubeshark` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +91,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:37:37Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:43:04Z._
