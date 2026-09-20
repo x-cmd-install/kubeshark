@@ -4,7 +4,7 @@
 
 eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
-![kubeshark](https://repo.x-cmd.io/kubeshark.svg)
+[![x-cmd/install — kubeshark Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubeshark.svg)](https://x-cmd.com/install/kubeshark)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **12,971** lines of code across **112** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 5 | 0 | 0 | 2 |
-| last60d | 2026-07-20 | 1 | 7 | 6 | 2 | 1 | 7 |
-| 90d | 2026-06-20 | 1 | 8 | 7 | 3 | 1 | 11 |
-| last180d | 2026-03-22 | 6 | 38 | 8 | 11 | 11 | 38 |
-| 360d | 2025-09-23 | 13 | 102 | 8 | 20 | 18 | 110 |
-| last720d | 2024-09-28 | 36 | 197 | 8 | 52 | 26 | 276 |
+| 30d | 2026-08-21 | 0 | 2 | 3 | 0 | 0 | 2 |
+| last60d | 2026-07-22 | 1 | 7 | 6 | 2 | 1 | 7 |
+| 90d | 2026-06-22 | 1 | 8 | 7 | 3 | 1 | 11 |
+| last180d | 2026-03-24 | 6 | 37 | 8 | 10 | 11 | 38 |
+| 360d | 2025-09-25 | 13 | 101 | 8 | 20 | 18 | 110 |
+| last720d | 2024-09-30 | 36 | 194 | 8 | 52 | 26 | 276 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:42:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:33:53Z._
