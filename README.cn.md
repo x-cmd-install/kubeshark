@@ -4,7 +4,7 @@
 
 eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
-[![x-cmd/install — kubeshark Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubeshark.svg?lang=zh)](https://x-cmd.com/install/kubeshark)
+[![x-cmd/install — kubeshark Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubeshark.svg?lang=zh)](https://x-cmd.com/install/kubeshark)
 
 ## 安装
 
@@ -42,18 +42,18 @@ x install kubeshark
 
 ## 累计统计
 
-- **发布数**: 467 · **已合并 PR**: 1345 · **开放 PR**: 8 · **已关闭 issue**: 247 · **开放 issue**: 140 · **提交数**: 2245
+- **发布数**: 467 · **已合并 PR**: 1345 · **开放 PR**: 6 · **已关闭 issue**: 247 · **开放 issue**: 140 · **提交数**: 2245
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 3 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 1 | 7 | 6 | 2 | 1 | 7 |
-| 90d | 2026-06-24 | 1 | 8 | 7 | 3 | 1 | 11 |
-| last180d | 2026-03-26 | 6 | 37 | 8 | 9 | 11 | 37 |
-| 360d | 2025-09-27 | 13 | 101 | 8 | 20 | 18 | 107 |
-| last720d | 2024-10-02 | 36 | 194 | 8 | 52 | 26 | 274 |
+| 30d | 2026-08-24 | 0 | 2 | 2 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 1 | 7 | 4 | 2 | 1 | 7 |
+| 90d | 2026-06-25 | 1 | 8 | 5 | 3 | 1 | 11 |
+| last180d | 2026-03-27 | 6 | 36 | 6 | 8 | 11 | 37 |
+| 360d | 2025-09-28 | 13 | 101 | 6 | 20 | 18 | 107 |
+| last720d | 2024-10-03 | 36 | 193 | 6 | 51 | 26 | 274 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ kubeshark 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:36:23Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:47:33Z._

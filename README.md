@@ -4,7 +4,7 @@
 
 eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
-[![x-cmd/install — kubeshark Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubeshark.svg)](https://x-cmd.com/install/kubeshark)
+[![x-cmd/install — kubeshark Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubeshark.svg)](https://x-cmd.com/install/kubeshark)
 
 ## Install
 
@@ -42,18 +42,18 @@ Total: **12,971** lines of code across **112** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 467 · **Merged PRs**: 1345 · **Open PRs**: 8 · **Closed issues**: 247 · **Open issues**: 140 · **Commits**: 2245
+- **Releases**: 467 · **Merged PRs**: 1345 · **Open PRs**: 6 · **Closed issues**: 247 · **Open issues**: 140 · **Commits**: 2245
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 3 | 0 | 0 | 2 |
-| last60d | 2026-07-24 | 1 | 7 | 6 | 2 | 1 | 7 |
-| 90d | 2026-06-24 | 1 | 8 | 7 | 3 | 1 | 11 |
-| last180d | 2026-03-26 | 6 | 37 | 8 | 9 | 11 | 37 |
-| 360d | 2025-09-27 | 13 | 101 | 8 | 20 | 18 | 107 |
-| last720d | 2024-10-02 | 36 | 194 | 8 | 52 | 26 | 274 |
+| 30d | 2026-08-24 | 0 | 2 | 2 | 0 | 0 | 2 |
+| last60d | 2026-07-25 | 1 | 7 | 4 | 2 | 1 | 7 |
+| 90d | 2026-06-25 | 1 | 8 | 5 | 3 | 1 | 11 |
+| last180d | 2026-03-27 | 6 | 36 | 6 | 8 | 11 | 37 |
+| 360d | 2025-09-28 | 13 | 101 | 6 | 20 | 18 | 107 |
+| last720d | 2024-10-03 | 36 | 193 | 6 | 51 | 26 | 274 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:36:23Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:47:33Z._
