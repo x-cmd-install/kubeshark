@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 63641648,
       "digest": "sha256:84f746534a58db3253b9ed76b85ff7a9f63704c2b475f4c3376669324cc0cba3",
-      "download_count": 120,
+      "download_count": 124,
       "created_at": "2026-08-13T20:10:04Z",
       "updated_at": "2026-08-13T20:10:06Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_darwin_amd64.mcpb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 60320242,
       "digest": "sha256:2dac606da8ee4267fc30c052736b6d5840a9f1e7575905b123fd2b4861137fed",
-      "download_count": 113,
+      "download_count": 115,
       "created_at": "2026-08-13T20:10:00Z",
       "updated_at": "2026-08-13T20:10:03Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_darwin_arm64.mcpb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:6dc6ed4ff5f23b1a0da6b4fccdcf364d9fe5349e798a3d75f4e43701cf866078",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-08-13T20:10:00Z",
       "updated_at": "2026-08-13T20:10:00Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_darwin_arm64.mcpb.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 62206136,
       "digest": "sha256:ef604fe6733692371c879abe21b20f2fe5a4f4e27a0a76b5eacdf7fe9ab62bf2",
-      "download_count": 93,
+      "download_count": 95,
       "created_at": "2026-08-13T20:09:57Z",
       "updated_at": "2026-08-13T20:10:00Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_linux_amd64.mcpb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:81572249996ea27c948128f9edd419267c7c35f64704d2edb804b1e0a9f8ddad",
-      "download_count": 29,
+      "download_count": 30,
       "created_at": "2026-08-13T20:09:57Z",
       "updated_at": "2026-08-13T20:09:57Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_linux_amd64.mcpb.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 58458296,
       "digest": "sha256:60916060b65375af5e28ca846dd3709986fc65f29beb0d20b62f772a8f6097e9",
-      "download_count": 96,
+      "download_count": 99,
       "created_at": "2026-08-13T20:09:54Z",
       "updated_at": "2026-08-13T20:09:57Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_linux_arm64.mcpb"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 97,
       "digest": "sha256:06a9522b1c3658bc61b575d51da3a732b9de622bff6dd16604fddaf136cf5f55",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-13T20:09:54Z",
       "updated_at": "2026-08-13T20:09:54Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_linux_arm64.mcpb.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 63669760,
       "digest": "sha256:7084a114eb3674fb306f0381e005b0365daf1fa89ac1059844f7c03e80632dc2",
-      "download_count": 109,
+      "download_count": 110,
       "created_at": "2026-08-13T20:09:51Z",
       "updated_at": "2026-08-13T20:09:53Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_windows_amd64.mcpb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 99,
       "digest": "sha256:a89c75a8fa3ed068376393277fa495e15e77c3fd3fc885e54ba253d87cc0770b",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-13T20:09:50Z",
       "updated_at": "2026-08-13T20:09:50Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark-mcp_windows_amd64.mcpb.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 63669760,
       "digest": "sha256:7084a114eb3674fb306f0381e005b0365daf1fa89ac1059844f7c03e80632dc2",
-      "download_count": 99,
+      "download_count": 101,
       "created_at": "2026-08-13T20:09:47Z",
       "updated_at": "2026-08-13T20:09:50Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark.exe"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:59e02c4a60f67de3654af1235ef01d369645442c5fbad336101a8250fe763812",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-13T20:09:43Z",
       "updated_at": "2026-08-13T20:09:43Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark_darwin_amd64.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 89,
       "digest": "sha256:0127d5af81973e2834c663cf7fde0310502ce86b5c5474569f0bca00e2217167",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-08-13T20:09:39Z",
       "updated_at": "2026-08-13T20:09:40Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark_darwin_arm64.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 62206136,
       "digest": "sha256:ef604fe6733692371c879abe21b20f2fe5a4f4e27a0a76b5eacdf7fe9ab62bf2",
-      "download_count": 262,
+      "download_count": 268,
       "created_at": "2026-08-13T20:09:37Z",
       "updated_at": "2026-08-13T20:09:39Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark_linux_amd64"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 88,
       "digest": "sha256:4676129355d70d71e14f17bf983600538298ea63b75f545cd5cac6625697acb2",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-13T20:09:36Z",
       "updated_at": "2026-08-13T20:09:37Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/kubeshark_linux_amd64.sha256"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 993,
       "digest": "sha256:8461190ae3c00001b7ff297be0da33445ae5daf2d383d0f2fec5e05c7979cc0b",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-13T20:10:06Z",
       "updated_at": "2026-08-13T20:10:07Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/README.md"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 8,
       "digest": "sha256:37a97f59bf496ac7478aac9b0c2de25e6e736a6a9a6b365ea9c9660765d14851",
-      "download_count": 1756,
+      "download_count": 1811,
       "created_at": "2026-08-13T20:09:33Z",
       "updated_at": "2026-08-13T20:09:33Z",
       "browser_download_url": "https://github.com/kubeshark/kubeshark/releases/download/v53.4.0/version.txt"
