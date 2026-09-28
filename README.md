@@ -38,22 +38,22 @@ Total: **13,045** lines of code across **114** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,087 · **Forks**: 549 · **Open issues**: 387 · **Contributors**: 47
+- **Stars**: 12,085 · **Forks**: 550 · **Open issues**: 387 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 467 · **Merged PRs**: 1346 · **Open PRs**: 5 · **Closed issues**: 247 · **Open issues**: 140 · **Commits**: 2246
+- **Releases**: 467 · **Merged PRs**: 1346 · **Open PRs**: 6 · **Closed issues**: 247 · **Open issues**: 140 · **Commits**: 2246
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 1 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-29 | 1 | 7 | 4 | 2 | 1 | 8 |
-| 90d | 2026-06-29 | 1 | 8 | 5 | 3 | 1 | 12 |
-| last180d | 2026-03-31 | 6 | 34 | 5 | 7 | 11 | 38 |
-| 360d | 2025-10-02 | 13 | 100 | 5 | 20 | 18 | 108 |
-| last720d | 2024-10-07 | 36 | 194 | 5 | 51 | 26 | 274 |
+| 30d | 2026-08-29 | 0 | 1 | 2 | 0 | 0 | 3 |
+| last60d | 2026-07-30 | 1 | 5 | 5 | 2 | 1 | 6 |
+| 90d | 2026-06-30 | 1 | 8 | 6 | 3 | 1 | 12 |
+| last180d | 2026-04-01 | 5 | 34 | 6 | 7 | 11 | 34 |
+| 360d | 2025-10-03 | 13 | 100 | 6 | 20 | 18 | 106 |
+| last720d | 2024-10-08 | 36 | 193 | 6 | 51 | 26 | 273 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:55:13Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:55:02Z._
