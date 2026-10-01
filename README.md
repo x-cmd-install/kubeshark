@@ -14,12 +14,12 @@ x install kubeshark
 
 ## Code insight
 
-Total: **13,045** lines of code across **114** files in the top 5 languages.
+Total: **13,218** lines of code across **116** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 7,858 | 514 | 1,406 | 64 |
-| Yaml | 4,451 | 120 | 128 | 47 |
+| Go | 7,901 | 514 | 1,413 | 64 |
+| Yaml | 4,581 | 120 | 133 | 49 |
 | Makefile | 341 | 8 | 54 | 1 |
 | Json | 178 | 0 | 0 | 1 |
 | Pan | 121 | 0 | 15 | 1 |
@@ -33,27 +33,27 @@ Total: **13,045** lines of code across **114** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v53.4.0` (2026-08-13)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-30
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 12,090 · **Forks**: 551 · **Open issues**: 387 · **Contributors**: 47
+- **Stars**: 12,093 · **Forks**: 550 · **Open issues**: 387 · **Contributors**: 49
 
 ## Totals (cumulative)
 
-- **Releases**: 467 · **Merged PRs**: 1346 · **Open PRs**: 6 · **Closed issues**: 247 · **Open issues**: 140 · **Commits**: 2246
+- **Releases**: 467 · **Merged PRs**: 1348 · **Open PRs**: 4 · **Closed issues**: 248 · **Open issues**: 139 · **Commits**: 2248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 0 | 2 | 0 | 0 | 3 |
-| last60d | 2026-08-01 | 1 | 5 | 5 | 2 | 1 | 6 |
-| 90d | 2026-07-02 | 1 | 8 | 6 | 3 | 1 | 12 |
-| last180d | 2026-04-03 | 5 | 33 | 6 | 7 | 11 | 34 |
-| 360d | 2025-10-05 | 12 | 100 | 6 | 20 | 18 | 106 |
-| last720d | 2024-10-10 | 36 | 192 | 6 | 51 | 26 | 267 |
+| 30d | 2026-09-01 | 0 | 0 | 2 | 0 | 0 | 5 |
+| last60d | 2026-08-02 | 1 | 6 | 4 | 3 | 0 | 8 |
+| 90d | 2026-07-03 | 1 | 10 | 4 | 4 | 0 | 14 |
+| last180d | 2026-04-04 | 5 | 35 | 4 | 8 | 10 | 36 |
+| 360d | 2025-10-06 | 12 | 102 | 4 | 21 | 17 | 108 |
+| last720d | 2024-10-11 | 35 | 194 | 4 | 51 | 25 | 267 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:09:47Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:24:35Z._
