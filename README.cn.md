@@ -38,7 +38,7 @@ x install kubeshark
 
 ## 流行度
 
-- **Star**: 12,096 · **Fork**: 551 · **开放 issue**: 388 · **贡献者**: 49
+- **Star**: 12,098 · **Fork**: 552 · **开放 issue**: 388 · **贡献者**: 49
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install kubeshark
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 2 | 2 | 1 | 0 | 6 |
-| last60d | 2026-08-09 | 2 | 8 | 3 | 2 | 0 | 11 |
-| 90d | 2026-07-10 | 2 | 11 | 3 | 4 | 0 | 17 |
-| last180d | 2026-04-11 | 6 | 35 | 3 | 8 | 9 | 35 |
-| 360d | 2025-10-13 | 13 | 105 | 3 | 22 | 17 | 111 |
-| last720d | 2024-10-18 | 35 | 195 | 3 | 53 | 24 | 258 |
+| 30d | 2026-09-09 | 1 | 2 | 2 | 1 | 0 | 6 |
+| last60d | 2026-08-10 | 2 | 7 | 3 | 2 | 0 | 11 |
+| 90d | 2026-07-11 | 2 | 11 | 3 | 4 | 0 | 17 |
+| last180d | 2026-04-12 | 6 | 35 | 3 | 8 | 9 | 35 |
+| 360d | 2025-10-14 | 13 | 105 | 3 | 22 | 17 | 111 |
+| last720d | 2024-10-19 | 35 | 195 | 3 | 53 | 24 | 258 |
 
 ## Release 资产
 
@@ -80,10 +80,10 @@ x install kubeshark
 | [kubeshark_linux_arm64](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_arm64) | 55.8 MiB | `native/linux/arm64` |
 | [kubeshark_linux_arm64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_arm64.sha256) | 88 B | `native/linux/arm64` |
 | [README.md](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/README.md) | 993 B | `other` |
-| [release-report.html](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.html) | 4.2 KiB | `other` |
-| [release-report.json](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.json) | 49.0 KiB | `other` |
-| [release-report.md](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.md) | 1.8 KiB | `other` |
-| [validation-evidence-v53.5.0.zip](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/validation-evidence-v53.5.0.zip) | 741.5 KiB | `other` |
+| [release-report.html](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.html) | 6.0 KiB | `other` |
+| [release-report.json](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.json) | 50.9 KiB | `other` |
+| [release-report.md](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.md) | 3.4 KiB | `other` |
+| [validation-evidence-v53.5.0.zip](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/validation-evidence-v53.5.0.zip) | 743.5 KiB | `other` |
 | [version.txt](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/version.txt) | 8 B | `other` |
 
 ## 改进这些数据
@@ -95,4 +95,4 @@ kubeshark 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T06:41:21Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T06:50:28Z._
