@@ -32,8 +32,8 @@ x install kubeshark
 
 ## 发布
 
-- **最新版本**: `v53.5.0` (2026-10-07)
-- **最近提交**: 2026-10-15
+- **最新版本**: `v53.6.0` (2026-10-21)
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 26 个
 
 ## 流行度
@@ -42,49 +42,49 @@ x install kubeshark
 
 ## 累计统计
 
-- **发布数**: 468 · **已合并 PR**: 1353 · **开放 PR**: 4 · **已关闭 issue**: 250 · **开放 issue**: 138 · **提交数**: 2253
+- **发布数**: 469 · **已合并 PR**: 1354 · **开放 PR**: 3 · **已关闭 issue**: 250 · **开放 issue**: 138 · **提交数**: 2254
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 4 | 4 | 0 | 1 | 7 |
-| last60d | 2026-08-22 | 1 | 7 | 4 | 1 | 1 | 10 |
-| 90d | 2026-07-23 | 2 | 13 | 4 | 4 | 1 | 15 |
-| last180d | 2026-04-24 | 4 | 31 | 4 | 6 | 8 | 33 |
-| 360d | 2025-10-26 | 13 | 107 | 4 | 22 | 17 | 113 |
-| last720d | 2024-10-31 | 32 | 195 | 4 | 51 | 24 | 244 |
+| 30d | 2026-09-22 | 2 | 5 | 3 | 0 | 1 | 8 |
+| last60d | 2026-08-23 | 2 | 8 | 3 | 1 | 1 | 11 |
+| 90d | 2026-07-24 | 3 | 14 | 3 | 4 | 1 | 16 |
+| last180d | 2026-04-25 | 5 | 32 | 3 | 6 | 8 | 34 |
+| 360d | 2025-10-27 | 14 | 108 | 3 | 22 | 17 | 114 |
+| last720d | 2024-11-01 | 33 | 196 | 3 | 51 | 24 | 245 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kubeshark-mcp_darwin_amd64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_darwin_amd64.mcpb) | 60.7 MiB | `native/darwin/x64` |
-| [kubeshark-mcp_darwin_amd64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_darwin_amd64.mcpb.sha256) | 98 B | `native/darwin/x64` |
-| [kubeshark-mcp_darwin_arm64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_darwin_arm64.mcpb) | 57.5 MiB | `native/darwin/arm64` |
-| [kubeshark-mcp_darwin_arm64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_darwin_arm64.mcpb.sha256) | 98 B | `native/darwin/arm64` |
-| [kubeshark-mcp_linux_amd64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_linux_amd64.mcpb) | 59.3 MiB | `native/linux/x64` |
-| [kubeshark-mcp_linux_amd64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_linux_amd64.mcpb.sha256) | 97 B | `native/linux/x64` |
-| [kubeshark-mcp_linux_arm64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_linux_arm64.mcpb) | 55.8 MiB | `native/linux/arm64` |
-| [kubeshark-mcp_linux_arm64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_linux_arm64.mcpb.sha256) | 97 B | `native/linux/arm64` |
-| [kubeshark-mcp_windows_amd64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_windows_amd64.mcpb) | 60.7 MiB | `native/win/x64` |
-| [kubeshark-mcp_windows_amd64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark-mcp_windows_amd64.mcpb.sha256) | 99 B | `native/win/x64` |
-| [kubeshark.exe](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark.exe) | 60.7 MiB | `other` |
-| [kubeshark.exe.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark.exe.sha256) | 80 B | `other` |
-| [kubeshark_darwin_amd64](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_darwin_amd64) | 60.7 MiB | `native/darwin/x64` |
-| [kubeshark_darwin_amd64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_darwin_amd64.sha256) | 89 B | `native/darwin/x64` |
-| [kubeshark_darwin_arm64](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_darwin_arm64) | 57.5 MiB | `native/darwin/arm64` |
-| [kubeshark_darwin_arm64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_darwin_arm64.sha256) | 89 B | `native/darwin/arm64` |
-| [kubeshark_linux_amd64](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_amd64) | 59.3 MiB | `native/linux/x64` |
-| [kubeshark_linux_amd64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_amd64.sha256) | 88 B | `native/linux/x64` |
-| [kubeshark_linux_arm64](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_arm64) | 55.8 MiB | `native/linux/arm64` |
-| [kubeshark_linux_arm64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/kubeshark_linux_arm64.sha256) | 88 B | `native/linux/arm64` |
-| [README.md](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/README.md) | 993 B | `other` |
-| [release-report.html](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.html) | 6.0 KiB | `other` |
-| [release-report.json](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.json) | 50.9 KiB | `other` |
-| [release-report.md](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/release-report.md) | 3.4 KiB | `other` |
-| [validation-evidence-v53.5.0.zip](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/validation-evidence-v53.5.0.zip) | 743.5 KiB | `other` |
-| [version.txt](https://github.com/kubeshark/kubeshark/releases/download/v53.5.0/version.txt) | 8 B | `other` |
+| [kubeshark-mcp_darwin_amd64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_darwin_amd64.mcpb) | 60.7 MiB | `native/darwin/x64` |
+| [kubeshark-mcp_darwin_amd64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_darwin_amd64.mcpb.sha256) | 98 B | `native/darwin/x64` |
+| [kubeshark-mcp_darwin_arm64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_darwin_arm64.mcpb) | 57.5 MiB | `native/darwin/arm64` |
+| [kubeshark-mcp_darwin_arm64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_darwin_arm64.mcpb.sha256) | 98 B | `native/darwin/arm64` |
+| [kubeshark-mcp_linux_amd64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_linux_amd64.mcpb) | 59.3 MiB | `native/linux/x64` |
+| [kubeshark-mcp_linux_amd64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_linux_amd64.mcpb.sha256) | 97 B | `native/linux/x64` |
+| [kubeshark-mcp_linux_arm64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_linux_arm64.mcpb) | 55.8 MiB | `native/linux/arm64` |
+| [kubeshark-mcp_linux_arm64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_linux_arm64.mcpb.sha256) | 97 B | `native/linux/arm64` |
+| [kubeshark-mcp_windows_amd64.mcpb](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_windows_amd64.mcpb) | 60.7 MiB | `native/win/x64` |
+| [kubeshark-mcp_windows_amd64.mcpb.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark-mcp_windows_amd64.mcpb.sha256) | 99 B | `native/win/x64` |
+| [kubeshark.exe](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark.exe) | 60.7 MiB | `other` |
+| [kubeshark.exe.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark.exe.sha256) | 80 B | `other` |
+| [kubeshark_darwin_amd64](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_darwin_amd64) | 60.7 MiB | `native/darwin/x64` |
+| [kubeshark_darwin_amd64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_darwin_amd64.sha256) | 89 B | `native/darwin/x64` |
+| [kubeshark_darwin_arm64](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_darwin_arm64) | 57.5 MiB | `native/darwin/arm64` |
+| [kubeshark_darwin_arm64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_darwin_arm64.sha256) | 89 B | `native/darwin/arm64` |
+| [kubeshark_linux_amd64](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_linux_amd64) | 59.3 MiB | `native/linux/x64` |
+| [kubeshark_linux_amd64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_linux_amd64.sha256) | 88 B | `native/linux/x64` |
+| [kubeshark_linux_arm64](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_linux_arm64) | 55.8 MiB | `native/linux/arm64` |
+| [kubeshark_linux_arm64.sha256](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/kubeshark_linux_arm64.sha256) | 88 B | `native/linux/arm64` |
+| [README.md](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/README.md) | 993 B | `other` |
+| [release-report.html](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/release-report.html) | 6.0 KiB | `other` |
+| [release-report.json](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/release-report.json) | 50.9 KiB | `other` |
+| [release-report.md](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/release-report.md) | 3.4 KiB | `other` |
+| [validation-evidence-v53.6.0.zip](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/validation-evidence-v53.6.0.zip) | 512.4 KiB | `other` |
+| [version.txt](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/version.txt) | 8 B | `other` |
 
 ## 改进这些数据
 
@@ -95,4 +95,4 @@ kubeshark 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:18:21Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:29:12Z._
