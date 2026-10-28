@@ -1,15 +1,3 @@
-- repo: nix_stable_26_05
-  srcname: kubeshark
-  visiblename: kubeshark
-  version: 53.2.3
-  origversion: null
-  status: outdated
-  summary: API Traffic Viewer for Kubernetes
-  maintainers:
-    - github@une-pause-cafe.fr
-    - prinn.dev@pm.me
-  licenses:
-    - Apache-2.0
 - repo: altsisyphus
   srcname: kubeshark
   binnames:
@@ -124,12 +112,24 @@
     - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubeshark
+  visiblename: kubeshark
+  version: 53.2.3
+  origversion: null
+  status: outdated
+  summary: API Traffic Viewer for Kubernetes
+  maintainers:
+    - github@une-pause-cafe.fr
+    - prinn.dev@pm.me
+  licenses:
+    - Apache-2.0
 - repo: nix_unstable
   srcname: kubeshark
   visiblename: kubeshark
-  version: 53.5.0
+  version: 53.6.0
   origversion: null
-  status: outdated
+  status: newest
   summary: API Traffic Viewer for Kubernetes
   maintainers:
     - github@une-pause-cafe.fr
