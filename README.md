@@ -38,7 +38,7 @@ Total: **13,281** lines of code across **116** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 12,112 · **Forks**: 556 · **Open issues**: 388 · **Contributors**: 49
+- **Stars**: 12,111 · **Forks**: 557 · **Open issues**: 388 · **Contributors**: 49
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **13,281** lines of code across **116** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 4 | 4 | 0 | 1 | 6 |
-| last60d | 2026-09-01 | 2 | 5 | 5 | 1 | 1 | 11 |
-| 90d | 2026-08-02 | 3 | 12 | 5 | 4 | 1 | 16 |
-| last180d | 2026-05-04 | 4 | 29 | 5 | 6 | 6 | 30 |
-| 360d | 2025-11-05 | 14 | 107 | 5 | 21 | 17 | 114 |
-| last720d | 2024-11-10 | 32 | 190 | 5 | 51 | 24 | 234 |
+| 30d | 2026-10-02 | 2 | 4 | 4 | 0 | 1 | 6 |
+| last60d | 2026-09-02 | 2 | 5 | 5 | 1 | 1 | 11 |
+| 90d | 2026-08-03 | 3 | 12 | 5 | 4 | 1 | 16 |
+| last180d | 2026-05-05 | 4 | 29 | 5 | 6 | 6 | 30 |
+| 360d | 2025-11-06 | 14 | 106 | 5 | 21 | 17 | 114 |
+| last720d | 2024-11-11 | 31 | 190 | 5 | 51 | 24 | 230 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:07:37Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:46:30Z._
