@@ -4,9 +4,9 @@
     - kubeshark
     - kubeshark-debuginfo
   visiblename: kubeshark
-  version: 53.5.0
-  origversion: 53.5.0-alt1
-  status: outdated
+  version: 53.6.0
+  origversion: 53.6.0-alt1
+  status: newest
   summary: Network Observability for SREs & AI Agents
   maintainers:
     - esgor@altlinux.org
