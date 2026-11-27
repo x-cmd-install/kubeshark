@@ -38,7 +38,7 @@ x install kubeshark
 
 ## 流行度
 
-- **Star**: 12,150 · **Fork**: 559 · **开放 issue**: 391 · **贡献者**: 49
+- **Star**: 12,151 · **Fork**: 559 · **开放 issue**: 391 · **贡献者**: 49
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install kubeshark
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 8 | 0 | 3 | 0 |
-| last60d | 2026-09-27 | 2 | 4 | 10 | 0 | 4 | 8 |
-| 90d | 2026-08-28 | 2 | 6 | 11 | 1 | 4 | 11 |
-| last180d | 2026-05-30 | 3 | 19 | 11 | 5 | 6 | 20 |
-| 360d | 2025-12-01 | 12 | 96 | 11 | 17 | 20 | 100 |
-| last720d | 2024-12-06 | 29 | 188 | 11 | 50 | 27 | 225 |
+| 30d | 2026-10-28 | 0 | 0 | 8 | 0 | 3 | 0 |
+| last60d | 2026-09-28 | 2 | 4 | 10 | 0 | 4 | 8 |
+| 90d | 2026-08-29 | 2 | 6 | 11 | 1 | 4 | 11 |
+| last180d | 2026-05-31 | 3 | 19 | 11 | 5 | 6 | 20 |
+| 360d | 2025-12-02 | 12 | 96 | 11 | 17 | 20 | 100 |
+| last720d | 2024-12-07 | 29 | 188 | 11 | 50 | 27 | 224 |
 
 ## Release 资产
 
@@ -86,6 +86,15 @@ x install kubeshark
 | [validation-evidence-v53.6.0.zip](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/validation-evidence-v53.6.0.zip) | 512.4 KiB | `other` |
 | [version.txt](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/version.txt) | 8 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/kubeshark) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `53.6.0` | ✅ latest |
+| Nix unstable | `53.6.0` | ✅ latest |
+
 ## 改进这些数据
 
 kubeshark 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubeshark` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +104,4 @@ kubeshark 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:52:07Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:17:17Z._
