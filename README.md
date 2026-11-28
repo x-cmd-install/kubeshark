@@ -48,12 +48,12 @@ Total: **13,281** lines of code across **116** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 8 | 0 | 3 | 0 |
-| last60d | 2026-09-28 | 2 | 4 | 10 | 0 | 4 | 8 |
-| 90d | 2026-08-29 | 2 | 6 | 11 | 1 | 4 | 11 |
-| last180d | 2026-05-31 | 3 | 19 | 11 | 5 | 6 | 20 |
-| 360d | 2025-12-02 | 12 | 96 | 11 | 17 | 20 | 100 |
-| last720d | 2024-12-07 | 29 | 188 | 11 | 50 | 27 | 224 |
+| 30d | 2026-10-29 | 0 | 0 | 8 | 0 | 3 | 0 |
+| last60d | 2026-09-29 | 2 | 4 | 10 | 0 | 4 | 0 |
+| 90d | 2026-08-30 | 2 | 6 | 11 | 1 | 4 | 0 |
+| last180d | 2026-06-01 | 3 | 19 | 11 | 5 | 6 | 0 |
+| 360d | 2025-12-03 | 12 | 96 | 11 | 17 | 20 | 0 |
+| last720d | 2024-12-08 | 29 | 185 | 11 | 50 | 27 | 224 |
 
 ## Release assets
 
@@ -86,15 +86,6 @@ Total: **13,281** lines of code across **116** files in the top 5 languages.
 | [validation-evidence-v53.6.0.zip](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/validation-evidence-v53.6.0.zip) | 512.4 KiB | `other` |
 | [version.txt](https://github.com/kubeshark/kubeshark/releases/download/v53.6.0/version.txt) | 8 B | `other` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/kubeshark). **4** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `53.6.0` | ✅ latest |
-| Nix unstable | `53.6.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubeshark` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -104,4 +95,4 @@ Install metadata for kubeshark lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:17:15Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:25:29Z._
